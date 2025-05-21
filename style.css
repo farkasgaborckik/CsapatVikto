@@ -1,4 +1,4 @@
-/* Alap stílusok */
+
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +11,6 @@
     color: #333;
   }
   
-  /* Fejléc */
   header {
     background-color: #f87434;
     color: white;
@@ -27,8 +26,7 @@
   .header-container p {
     font-size: 1.2em;
   }
-  
-  /* Navigációs sáv */
+
   .navbar {
     background-color: white;
     padding: 1em;
@@ -50,7 +48,7 @@
     border-radius: 5px;
   }
   
-  .search-bar button {
+  .search-bar a {
     padding: 0.8em 1.5em;
     background-color:#f87434;
     color: white;
@@ -64,7 +62,6 @@
     background-color: #f87434;
   }
   
-  /* Kategóriák */
   .categories {
     padding: 2em;
     max-width: 1000px;
@@ -98,7 +95,6 @@
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
   }
   
-  /* Lábléc */
   footer {
     background-color: #eeeeee;
     text-align: center;
