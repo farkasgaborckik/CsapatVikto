@@ -1,4 +1,6 @@
-
+  body {
+    background-color: #f9f9f9;
+  } 
 .search-results {
     max-width: 1000px;
     margin: auto;
@@ -40,4 +42,23 @@
     background-color: #f87434;
     color: white;
     text-align: left;
+    padding-top: 5px;
+  }
+
+  .search-bar {
+    background-color: white;
+    width: 300px;
+  }
+
+  #talalat {
+    background-color: #2B4156;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  #hirdetesfeladas {
+    float: right;
+    background-color: #19C765;
+    font-weight: bold;
+    color: white;
   }

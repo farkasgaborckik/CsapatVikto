@@ -109,3 +109,12 @@
     font-weight: bold;
   }
   
+  .hirdetes1 {
+    float: left;
+    width: 25%;
+    height: 25%;
+  }
+
+  .hirdetes2 {
+    float: right;
+  }
