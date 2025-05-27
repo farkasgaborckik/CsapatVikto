@@ -1,0 +1,140 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+header {
+    background-color: #f87434;
+    text-align: left;
+    color: white !important;
+}
+
+header .logo img {
+    max-width: 200px;
+}
+
+main {
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ad-container {
+    width: 100%;
+    max-width: 1200px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.kep1 {
+    width: 40%;
+    padding: 20px;
+}
+
+.kep1 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.cuccjellemzo {
+    width: 60%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.cim {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.ár {
+    font-size: 1.6rem;
+    color: #e60000;
+    margin-bottom: 20px;
+}
+
+.ár span {
+    font-size: 1.3rem;
+    color: #666;
+}
+
+.helyszin {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.leiras {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+}
+
+.jellemzok {
+    margin-bottom: 20px;
+}
+
+.jellemzok h3 {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+}
+
+.jellemzok ul {
+    list-style-type: none;
+}
+
+.jellemzok li {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+}
+
+.elerhetoseg h3 {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+}
+
+.elerhetoseg a {
+    color: #f87434;
+    text-decoration: none;
+}
+
+.elerhetoseg a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+    color: #777;
+    padding: 20px;
+    background-color: #f87434;
+    color: white;
+    margin-top: 12%;
+}
+
+h1 {
+    color: white;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
