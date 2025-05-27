@@ -138,3 +138,9 @@ h1 {
     font-size: 2.5rem;
     margin-bottom: 10px;
 }
+
+.visszagomb {
+    font-weight: bolder;
+    color: #f87434;
+    text-align: right;
+}

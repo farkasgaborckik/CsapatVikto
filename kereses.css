@@ -62,3 +62,8 @@
     font-weight: bold;
     color: white;
   }
+
+  #arak {
+    float: right;
+    font-weight: bolder;
+  }
