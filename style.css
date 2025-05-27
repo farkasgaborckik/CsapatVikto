@@ -9,6 +9,9 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f9f9f9;
     color: #333;
+    background-image: url(hatter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   
   header {
@@ -55,7 +58,7 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background 0.3s;
+    transition:  0.3s;
   }
   
   .search-bar button:hover {
@@ -72,6 +75,7 @@
     font-size: 1.8em;
     margin-bottom: 1em;
     text-align: center;
+    color: white;
   }
   
   .category-grid {
@@ -100,6 +104,8 @@
     text-align: center;
     padding: 1em;
     font-size: 0.9em;
-    margin-top: 3em;
+    margin-top: 20.1%;
+    color: #f87434;
+    font-weight: bold;
   }
   
