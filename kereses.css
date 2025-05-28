@@ -110,3 +110,16 @@
 .hirdetes7 {
   margin-left: 30%;
 }
+
+.utalv{
+  text-decoration: none;
+  color: white;
+}
+.utalv :hover{
+  text-decoration: underline;
+  color: blue;
+}
+.rak{
+  color: white;
+  text-decoration: none;
+}

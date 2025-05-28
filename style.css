@@ -125,3 +125,13 @@
     font-weight: bold;
     color: white;
   }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  .rak{
+   color: #f87434;
+  }
+  .rak2{
+    color: white;
+  }
