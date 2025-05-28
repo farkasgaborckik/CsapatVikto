@@ -118,3 +118,10 @@
   .hirdetes2 {
     float: right;
   }
+
+    #hirdetesfeladas {
+    float: right;
+    background-color: #19C765;
+    font-weight: bold;
+    color: white;
+  }
