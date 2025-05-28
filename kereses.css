@@ -50,6 +50,7 @@
     width: 300px;
     font-weight: bold;
     color: #f87434;
+    margin-right: 20px;
   }
 
   #talalat {
@@ -83,7 +84,21 @@
     font-weight: bolder;
   }
 
-  #hirdetes3 {  
+
+
+  .helykereses{
     float: right;
+    font-weight: bolder;
+    color: #f87434;
+    font-size: larger;
   }
 
+  .hirdetes4 {
+    padding-top: 50px;
+    float: left;
+}
+
+.hirdetes5 {
+  padding-top: 50px;
+    float: right;
+}
