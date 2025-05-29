@@ -115,10 +115,13 @@
   text-decoration: none;
   color: white;
 }
-.utalv :hover{
+.utalv:hover{
   text-decoration: underline;
-  color: blue;
+  
 }
 .rak{
   float: right;
+}
+.ker:hover{
+text-decoration: underline;
 }

@@ -140,3 +140,13 @@
     width: 100%;
     height: 100%;
   }
+  .kat:hover{
+    text-decoration: underline;
+  }
+
+  .rak:hover{
+    text-decoration: underline;
+  }
+ .ker:hover{
+  text-decoration: underline;
+ }
