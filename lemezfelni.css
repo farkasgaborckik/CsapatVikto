@@ -161,3 +161,10 @@ table, th, td {
 thead {
     text-align: center;
 }
+.jofog{
+    color: white;
+    text-decoration: none;
+}
+.jofog:hover{
+    text-decoration: underline;
+}

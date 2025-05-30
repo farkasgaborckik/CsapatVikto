@@ -156,3 +156,10 @@ h1 {
 #hang {
     padding: 5px;
 }
+.jofog{
+    color:white;
+    text-decoration: none;
+}
+.jofog:hover{
+    text-decoration: underline;
+}

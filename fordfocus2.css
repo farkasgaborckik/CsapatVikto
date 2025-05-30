@@ -152,3 +152,11 @@ h1 {
 .hirdetes5 {
     float: right;
 }
+.jofog{
+    text-decoration: none;
+    color: white;
+}
+
+.jofog:hover{
+    text-decoration: underline;
+}
